@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Elfueros
-- 👀 I’m interested in AI and its application to healthcare management
-- 🌱 I’m currently learning sowftware engineering at Holberton school
-- 💞️ I’m looking to work with anybody with the same interrest
+- 👋 Hi, I’m @Elfueros.
+- 👀 I’m interested in AI and its application to healthcare management.
+- 🌱 I’m currently following the ALX Software Engineering program  at Holberton school.
+- 💞️ I’m looking to work with anyone who share my interrests.
