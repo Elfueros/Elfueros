@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Elfueros.
 - 👀 I’m interested in AI and its application to healthcare management.
+- 👀 I’m also interested in linguistics and translations especially translations between French and English
 - 🌱 I’m currently following the ALX Software Engineering program  at Holberton school.
 - 💞️ I’m looking to work with anyone who share my interrests.
